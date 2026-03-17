@@ -1,0 +1,23 @@
+---
+toc: false
+---
+
+---
+title: "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade"
+---
+
+## Descrição do projeto
+
+O Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que, no mundo, cerca de 35 milhões de pessoas sofrem de transtornos relacionados ao uso de substâncias, e deveriam ser tratadas. Estima-se que, em 2017, ~585.000 pessoas morreram em decorrência desse uso. Esse consumo afeta as pessoas que fazem uso de substâncias, como também familiares, amigos e a sociedade, visto que substâncias psicoativas estão associadas a agravos e danos diversos, como a violência, a disseminação do HIV e hepatites virais, e overdoses. O uso de drogas é um problema de extrema complexidade que deve ser abordado de forma multidimensional. Exatamente com este propósito, optamos por compor uma ampla rede, que abarca diferentes disciplinas e profissionais de reconhecida competência nas mais diferentes áreas do conhecimento, trabalhando de forma integrada, compartilhando ideias, equipamentos e insumos, enfim, maximizando as interações e minimizando custos Modelos experimentais têm sido fundamentais na elucidação dos mecanismos associados ao uso e abuso de substâncias psicoativas. No contexto desta proposta, esses modelos serão utilizados para a investigação dos mecanismos responsáveis pela susceptibilidade variável às substâncias nas diferentes fases do desenvolvimento ontogenético e entre os sexos. Quanto ao componente da proposta com abordagem mais epidemiológica, será feito o aporte de estatística e computação avançada à estudos classicamente analisados de forma simplificada, com a utilização de simulações in silico e estatística bayesiana. A presente proposta contempla um componente vigoroso em modelagem, nas suas variadas acepções, elaborando modelos realistas, verazes e tratáveis (qualitativa e/ou quantitativamente). As informações obtidas poderão se mostrar úteis para informar a sociedade sobre os riscos envolvidos e também para a orientar as políticas de saúde que serão direcionadas ao atendimento dos usuários de drogas psicoativas.
+
+## Reponsável pelo projeto
+
+Francisco Inacio Pinkusfeld Monteiro Bastos (LIS/ICICT/Fiocruz)
+
+## Situação
+
+Em andamento Natureza: Projetos de pesquisa
+
+## Financiamento
+
+Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq

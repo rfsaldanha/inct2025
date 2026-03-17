@@ -1,0 +1,62 @@
+---
+title: "Equipe"
+---
+
+## Titulação da equipe
+
+- Graduação: 10
+- Mestrado acadêmico: 15
+- Doutorado: 20
+
+## Integrantes
+
+- Francisco Inacio Pinkusfeld Monteiro Bastos (Responsável)
+- Adriana Cunha Faria-Melibeu
+- Alex Christian Manhães
+- Alexandra Almeida
+- Aline Araújo Brasil
+- Amanda Kamil Abramov
+- Ana Carolina Dutra Tavares
+- Ana P. da Cunha
+- Anderson Ribeiro-Carvalho
+- Antonio JL da Cunha
+- Arnaldo Prata-Barbosa
+- Beatriz Esteves
+- Bruna Teixeira Silva
+- Bruno Pantaleão
+- Carmen Ildes R F Asmus
+- Caroline Vieira Azevedo
+- CGS Osorio-de-Castro
+- Claudio Filgueiras
+- Egberto Gaspar de Moura
+- Elize Massard da Fonseca
+- Gabriela Chagas Dornelles
+- Georgia Chalfun
+- Gustavo Rodrigues-Santos
+- Ignacio Bórquez
+- Jaqueline Robaina
+- Jesus Landeira Fernandez
+- Joffre Amim Júnior
+- Joice Stipursky
+- Juliana Ferreira Vasques
+- Jurema Mota
+- Leo Travassos V Milone
+- Liana Catarina Lima Portugal
+- Livia Pinto Pinheiro
+- Maria C Magalhaes-Barbosa
+- Maria de Fátima Pina
+- Mariana Barros Genuino Olveira
+- MJ Sobreira-da-Silva
+- Naíde Teodósio Valois Santos
+- Noa Krawczyk
+- Pamela M Moura Gonçalves
+- Paula Silva L Almeida
+- Paulo Victor B. E Santos
+- Penélope Saldanha Marinho
+- Priscila Olveira de Souza
+- Rafaela Zorzanelli
+- Regina Kubrusly
+- Rodrigo Colaço das Neves
+- Rosana Camarini
+- Thomas Krahe
+- Yael Abreu-Villaça
