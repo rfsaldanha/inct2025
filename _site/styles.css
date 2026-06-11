@@ -1,1 +1,134 @@
 /* css styles */
+
+:root {
+  --inct-ink: #172126;
+  --inct-muted: #5c6b73;
+  --inct-line: #d7e0df;
+  --inct-surface: #f6f8f7;
+  --inct-surface-strong: #eaf1ef;
+  --inct-accent: #0f766e;
+  --inct-accent-dark: #134e4a;
+  --inct-warm: #b45309;
+}
+
+body {
+  color: var(--inct-ink);
+  line-height: 1.65;
+}
+
+a {
+  color: var(--inct-accent-dark);
+}
+
+.navbar {
+  border-bottom: 1px solid var(--inct-line);
+}
+
+.quarto-title h1.title {
+  max-width: 980px;
+  font-weight: 720;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(260px, 0.8fr);
+  gap: 1.25rem;
+  align-items: stretch;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.hero-copy,
+.hero-facts,
+.feature-card,
+.metric {
+  border: 1px solid var(--inct-line);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 10px 24px rgba(23, 33, 38, 0.05);
+}
+
+.hero-copy {
+  padding: clamp(1.4rem, 3vw, 2.3rem);
+  background: linear-gradient(135deg, var(--inct-surface), #fff 72%);
+  font-size: clamp(1.05rem, 1.7vw, 1.25rem);
+}
+
+.hero-copy p:last-child,
+.hero-facts p:last-child,
+.feature-card p:last-child,
+.metric p:last-child {
+  margin-bottom: 0;
+}
+
+.hero-facts {
+  padding: 1.25rem;
+  background: var(--inct-surface);
+}
+
+.hero-facts strong {
+  color: var(--inct-accent-dark);
+  text-transform: uppercase;
+  font-size: 0.76rem;
+  letter-spacing: 0.04em;
+}
+
+.feature-grid,
+.metric-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.feature-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.metric-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.feature-card {
+  padding: 1.15rem;
+}
+
+.feature-card h3 {
+  margin-top: 0;
+  color: var(--inct-accent-dark);
+  font-size: 1.05rem;
+}
+
+.metric {
+  padding: 1rem;
+  background: var(--inct-surface);
+}
+
+.metric strong {
+  display: block;
+  color: var(--inct-warm);
+  font-size: 1.45rem;
+  line-height: 1.15;
+  margin-bottom: 0.35rem;
+}
+
+.partner-strip {
+  border: 1px solid var(--inct-line);
+  border-left: 5px solid var(--inct-accent);
+  border-radius: 8px;
+  background: var(--inct-surface-strong);
+  color: var(--inct-accent-dark);
+  font-weight: 700;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+ol li {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 900px) {
+  .hero,
+  .feature-grid,
+  .metric-grid {
+    grid-template-columns: 1fr;
+  }
+}

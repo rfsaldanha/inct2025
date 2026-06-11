@@ -4,49 +4,84 @@
     "href": "index.html",
     "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
     "section": "",
-    "text": "O Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que, no mundo, cerca de 35 milhões de pessoas sofrem de transtornos relacionados ao uso de substâncias, e deveriam ser tratadas. Estima-se que, em 2017, ~585.000 pessoas morreram em decorrência desse uso. Esse consumo afeta as pessoas que fazem uso de substâncias, como também familiares, amigos e a sociedade, visto que substâncias psicoativas estão associadas a agravos e danos diversos, como a violência, a disseminação do HIV e hepatites virais, e overdoses. O uso de drogas é um problema de extrema complexidade que deve ser abordado de forma multidimensional. Exatamente com este propósito, optamos por compor uma ampla rede, que abarca diferentes disciplinas e profissionais de reconhecida competência nas mais diferentes áreas do conhecimento, trabalhando de forma integrada, compartilhando ideias, equipamentos e insumos, enfim, maximizando as interações e minimizando custos Modelos experimentais têm sido fundamentais na elucidação dos mecanismos associados ao uso e abuso de substâncias psicoativas. No contexto desta proposta, esses modelos serão utilizados para a investigação dos mecanismos responsáveis pela susceptibilidade variável às substâncias nas diferentes fases do desenvolvimento ontogenético e entre os sexos. Quanto ao componente da proposta com abordagem mais epidemiológica, será feito o aporte de estatística e computação avançada à estudos classicamente analisados de forma simplificada, com a utilização de simulações in silico e estatística bayesiana. A presente proposta contempla um componente vigoroso em modelagem, nas suas variadas acepções, elaborando modelos realistas, verazes e tratáveis (qualitativa e/ou quantitativamente). As informações obtidas poderão se mostrar úteis para informar a sociedade sobre os riscos envolvidos e também para a orientar as políticas de saúde que serão direcionadas ao atendimento dos usuários de drogas psicoativas."
+    "text": "O INCT Drogas de abuso reúne uma rede translacional dedicada a compreender os fatores biológicos, sociais, clínicos e contextuais que modulam a susceptibilidade ao uso prejudicial de substâncias psicoativas.\nO projeto integra modelos experimentais, epidemiologia, clínica, química analítica, ciência de dados e cooperação interinstitucional para produzir evidências úteis à pesquisa, à formação e às políticas públicas.\n\n\nResponsável\nFrancisco Inacio Pinkusfeld Monteiro Bastos\nLIS/ICICT/Fiocruz\nSituação\nEm andamento\nFinanciamento\nConselho Nacional de Desenvolvimento Científico e Tecnológico — CNPq"
   },
   {
     "objectID": "index.html#descrição-do-projeto",
     "href": "index.html#descrição-do-projeto",
     "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
+    "section": "Descrição do projeto",
+    "text": "Descrição do projeto\nO Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que cerca de 35 milhões de pessoas no mundo sofrem de transtornos relacionados ao uso de substâncias e deveriam ser tratadas. Em 2017, aproximadamente 585 mil mortes foram associadas a esse uso. As consequências alcançam usuários, familiares, comunidades e serviços públicos, com efeitos sobre violência, HIV, hepatites virais, overdoses e outras formas de vulnerabilidade.\nO uso de drogas é um problema de alta complexidade e exige abordagem multidimensional. Por isso, o INCT articula pesquisadores, estudantes, laboratórios, bases de dados e serviços em uma rede que combina investigação experimental, análise populacional, modelagem estatística e produção de evidências para orientar ações em saúde pública."
+  },
+  {
+    "objectID": "index.html#eixos-de-pesquisa",
+    "href": "index.html#eixos-de-pesquisa",
+    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
+    "section": "Eixos de pesquisa",
+    "text": "Eixos de pesquisa\n\n\nCiência básica\nEstudos em neurociências, fisiologia, farmacologia, toxicologia e modelos experimentais para investigar mecanismos de susceptibilidade às drogas de abuso ao longo do desenvolvimento e entre sexos.\n\n\nEpidemiologia e métodos quantitativos\nAnálise de grandes bases de dados, inquéritos, séries temporais, populações de difícil acesso, estatística avançada, simulações in silico e scripts abertos em R e Python.\n\n\nÁrea clínica\nAvaliação de procedimentos, escalas, adesão, abandono e protocolos de tratamento para pessoas que fazem uso prejudicial ou dependente de álcool e outras drogas.\n\n\nQuímica analítica e organoides\nCaracterização molecular de substâncias, novas substâncias psicoativas, toxicologia e estudos com organoides como ferramentas para perguntas de base translacional."
+  },
+  {
+    "objectID": "index.html#inovação-em-dados-ia-e-saúde-pública",
+    "href": "index.html#inovação-em-dados-ia-e-saúde-pública",
+    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
+    "section": "Inovação em dados, IA e saúde pública",
+    "text": "Inovação em dados, IA e saúde pública\nUm componente em desenvolvimento integra dados não tradicionais, inteligência artificial e participação cidadã para caracterizar cenas abertas de uso de drogas no Rio de Janeiro. A proposta usa imagens do Google Street View, técnicas de processamento de linguagem natural e análise computacional para atualizar tipologias, estimar ecométricas e produzir mapas e indicadores associados à sindemia crack/violência/HIV/HCV.\nO produto previsto é uma plataforma com mapas, gráficos e arquivos para download, apoiando gestores, profissionais de saúde, assistência social e pesquisadores na identificação de contextos onde intervenções do SUS e do SUAS podem melhorar acesso, referência e cuidado."
+  },
+  {
+    "objectID": "index.html#rede-e-impacto",
+    "href": "index.html#rede-e-impacto",
+    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
+    "section": "Rede e impacto",
+    "text": "Rede e impacto\n\n\n300+\nparticipantes mobilizados direta ou indiretamente pela rede.\n\n\n100+\nartigos, capítulos, teses e dissertações produzidos no conjunto das atividades.\n\n\n4\nfrentes integradas de pesquisa translacional.\n\n\nFonte aberta\nscripts e rotinas computacionais desenvolvidos para uso público e reprodutível."
+  },
+  {
+    "objectID": "index.html#instituições-e-parcerias",
+    "href": "index.html#instituições-e-parcerias",
+    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
+    "section": "Instituições e parcerias",
+    "text": "Instituições e parcerias\n\nFiocruz · INCA · UERJ · UFRJ · UFF · PUC-Rio · IDOR · CNPq · FAPERJ\n\nO projeto articula instituições públicas e privadas, colaborações nacionais e parcerias internacionais, incluindo pesquisadores da América Latina e dos Estados Unidos em temas como epidemiologia de opioides, novas substâncias psicoativas, políticas de drogas e redução de danos."
+  },
+  {
+    "objectID": "publicacoes.html",
+    "href": "publicacoes.html",
+    "title": "Publicações",
     "section": "",
-    "text": "O Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que, no mundo, cerca de 35 milhões de pessoas sofrem de transtornos relacionados ao uso de substâncias, e deveriam ser tratadas. Estima-se que, em 2017, ~585.000 pessoas morreram em decorrência desse uso. Esse consumo afeta as pessoas que fazem uso de substâncias, como também familiares, amigos e a sociedade, visto que substâncias psicoativas estão associadas a agravos e danos diversos, como a violência, a disseminação do HIV e hepatites virais, e overdoses. O uso de drogas é um problema de extrema complexidade que deve ser abordado de forma multidimensional. Exatamente com este propósito, optamos por compor uma ampla rede, que abarca diferentes disciplinas e profissionais de reconhecida competência nas mais diferentes áreas do conhecimento, trabalhando de forma integrada, compartilhando ideias, equipamentos e insumos, enfim, maximizando as interações e minimizando custos Modelos experimentais têm sido fundamentais na elucidação dos mecanismos associados ao uso e abuso de substâncias psicoativas. No contexto desta proposta, esses modelos serão utilizados para a investigação dos mecanismos responsáveis pela susceptibilidade variável às substâncias nas diferentes fases do desenvolvimento ontogenético e entre os sexos. Quanto ao componente da proposta com abordagem mais epidemiológica, será feito o aporte de estatística e computação avançada à estudos classicamente analisados de forma simplificada, com a utilização de simulações in silico e estatística bayesiana. A presente proposta contempla um componente vigoroso em modelagem, nas suas variadas acepções, elaborando modelos realistas, verazes e tratáveis (qualitativa e/ou quantitativamente). As informações obtidas poderão se mostrar úteis para informar a sociedade sobre os riscos envolvidos e também para a orientar as políticas de saúde que serão direcionadas ao atendimento dos usuários de drogas psicoativas."
+    "text": "Esta página reúne todas as referências listadas no relatório de epidemiologia e métodos quantitativos recebido como contexto para a atualização do site. A lista será revisada e ampliada conforme novas produções do INCT forem incorporadas."
   },
   {
-    "objectID": "index.html#reponsável-pelo-projeto",
-    "href": "index.html#reponsável-pelo-projeto",
-    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
-    "section": "Reponsável pelo projeto",
-    "text": "Reponsável pelo projeto\nFrancisco Inacio Pinkusfeld Monteiro Bastos (LIS/ICICT/Fiocruz)"
-  },
-  {
-    "objectID": "index.html#situação",
-    "href": "index.html#situação",
-    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
-    "section": "Situação",
-    "text": "Situação\nEm andamento Natureza: Projetos de pesquisa"
-  },
-  {
-    "objectID": "index.html#financiamento",
-    "href": "index.html#financiamento",
-    "title": "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade",
-    "section": "Financiamento",
-    "text": "Financiamento\nConselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq"
+    "objectID": "publicacoes.html#artigos",
+    "href": "publicacoes.html#artigos",
+    "title": "Publicações",
+    "section": "Artigos",
+    "text": "Artigos\n\nAlmeida A, Kiene SM, Zúñiga ML, Werb D, Bórquez A, Bastos FI. Looking through the cracks: vulnerabilities and deprivation in the Brazilian open drug scenes. Soc Sci Med. 2026;402:119249. DOI: https://doi.org/10.1016/j.socscimed.2026.119249.\nAzevedo Cardoso T, Cerezer K, Martini T, Soriano de Sousa MU, Bastos FI, Balanzá-Martínez V, Kapczinski F, De Boni RB. Lifestyle changes during the COVID-19 pandemic in Brazil: results from three consecutive cross-sectional web surveys. BMJ Open. 2023;13(7):e070328. DOI: https://doi.org/10.1136/bmjopen-2022-070328.\nBastos FI, Krawczyk N. Reports of rising use of fentanyl in contemporary Brazil is of concern, but a US-like crisis may still be averted. Lancet Reg Health Am. 2023;23:100507. DOI: https://doi.org/10.1016/j.lana.2023.100507.\nBastos FI. (Re)criminalization of drug use: dynamics and perspectives. Cad Saude Publica. 2024;40(7):e00081624. DOI: https://doi.org/10.1590/0102-311XEN081624.\nBastos FI. Adolescence in a fast-transitioning world: tentative policies as regards the harmful use of substances. Saúde Debate. 2026;50(N. Especial 1):e11336. DOI: https://doi.org/10.1590/2358-28982026E111336I.\nBertoni N, Cavalcante TM, Souza MC, Szklo AS. Prevalence of electronic nicotine delivery systems and waterpipe use in Brazil: where are we going? Rev Bras Epidemiol. 2021;24(suppl 2):e210007. DOI: https://doi.org/10.1590/1980-549720210007.supl.2.\nBertoni N, Szklo AS, Bastos FI. Implementation of Web-Based Respondent-Driven Sampling to Recruit Users of Electronic Nicotine Delivery Systems in Brazil: Cross-Sectional Survey. JMIR Form Res. 2026;10:e81573. DOI: https://doi.org/10.2196/81573.\nBertoni N, Szklo AS, Coutinho T, Santos ATC, Lima FDT. Users’ knowledge and perceptions concerning the Brazilian legislation on electronic nicotine delivery systems: a qualitative study. Saúde Soc. 2025;34(2):e240327en.\nBertoni N, Szklo AS. Dispositivos eletrônicos para fumar nas capitais brasileiras: prevalência, perfil de uso e implicações para a Política Nacional de Controle do Tabaco. Cad Saude Publica. 2021;37(7):e00261920. DOI: https://doi.org/10.1590/0102-311X00261920.\nBórquez I, Bailey K, Laynor G, Toledo L, Bastos FI, Santaella-Tenorio J, Castillo-Carniglia Á, Cerdá M, Krawczyk N. Harm reduction services and interventions for People Who Use Drugs (PWUD) in Latin America and the Caribbean (LAC) between 2013-2024: A scoping review protocol. PLoS One. 2025;20(11):e0334978. DOI: https://doi.org/10.1371/journal.pone.0334978.\nBórquez I, Pantaleão B, Brogim G, Cunha AP, Krawczyk N, Bastos FI. Emergence of synthetic drugs in South America: insights from Brazil, Chile, and Colombia. Harm Reduct J. 2026;23(1):122. DOI: https://doi.org/10.1186/s12954-026-01480-4.\nBrogim G, Bastos FI. Sanctioning the supply chain: Analyzing US executive orders on tariffs as a tool against the fentanyl crisis. Glob Public Health. 2026;21(1):2653902. DOI: https://doi.org/10.1080/17441692.2026.2653902.\nBrogim G, Bruzzi P, Mota JC, Cunha AP, Bastos FI. Media (in)visibility of violence in Manguinhos, Rio de Janeiro, Brazil (2020-2024): a statistical modeling approach. Front Commun. 2026;11:1756667. DOI: https://doi.org/10.3389/fcomm.2026.1756667.\nCabral VP, Moraes CL, Bastos FI, Abreu AMM, Domingues RMSM. Prevalence of alcohol use during pregnancy, Brazil, 2011-2012. Cad Saude Publica. 2023;39(8):e00232422. DOI: https://doi.org/10.1590/0102-311XPT232422.\nCarvalho AM, Bertoni N, Coutinho C, Bastos FI, Fonseca VM. Tobacco use by sexual and gender minorities: findings from a Brazilian national survey. BMJ Open. 2023;13(4):e065738. DOI: https://doi.org/10.1136/bmjopen-2022-065738.\nCarvalho RM, Bastos FI, Clara de Magalhães-Barbosa M, Bianchi LM, Robaina JR, Rodrigues-Santos G, Ledo Alves da Cunha AJ, Prata-Barbosa A. A time-series analysis of the use of opioid medications in a network of Brazilian hospitals, 2009-2020. Lancet Reg Health Am. 2025;48:101167. DOI: https://doi.org/10.1016/j.lana.2025.101167.\nCarvalho RM, de Magalhães-Barbosa MC, Bianchi LM, Rodrigues-Santos G, da Cunha AJLA, Bastos FI, Prata-Barbosa A. Shift in hospital opioid use during the COVID-19 pandemic in Brazil: a time-series analysis of one million prescriptions. Sci Rep. 2023;13(1):17197. DOI: https://doi.org/10.1038/s41598-023-44533-5.\nCastro-Alves J, Bastos FI, Cobo B, De Boni RB. Physical violence against women in Brazil: Findings from the 3rd Brazilian household survey on substance use. Glob Public Health. 2023;18(1):2244032. DOI: https://doi.org/10.1080/17441692.2023.2244032.\nCunha AP, Mota JC, Bastos FI. A city under siege: Time-Series analysis of shootouts and the association with health and living conditions in Rio de Janeiro, Brazil, 2017 to 2022. J Interpers Violence. 2025 Jul 24:8862605251356234. DOI: https://doi.org/10.1177/08862605251356234.\nCunha AP, Mota JC, Bastos FI. Perceived barriers to primary health care access in a violence-affected community in Rio de Janeiro, Brazil: Sociodemographic characteristics and self-reported health. BMJ Pub Health. 2026;4:e003655. DOI: https://doi.org/10.1136/BMJPH2025-003655.\nDe Boni RB, de Vasconcellos MTL, Pedro Luis NS, Silva KMLE, Bertoni N, Coutinho CFS, Mota JC, Bastos FI. Substance use, self-rated health and HIV status in Brazil. AIDS Care. 2021;33(10):1358-1362. DOI: https://doi.org/10.1080/09540121.2020.1799923.\nDe Boni RB, Mota JC, Coutinho C, Bastos FI. Would the Brazilian population support the alcohol policies recommended by the World Health Organization? Rev Saude Publica. 2022;56:66. DOI: https://doi.org/10.11606/s1518-8787.2022056004093.\nDe Boni RB, Ribeiro-Alves M, Mota JC, Gomes M, Balanzá-Martínez V, Kapczinski F, Bastos FI. The cumulative effect of multiple dimensions of lifestyle on risky drinking during the Covid-19 pandemic. Prev Med. 2021;150:106718. DOI: https://doi.org/10.1016/j.ypmed.2021.106718.\nGaio DC, Bastos FI, Moysés SJ, Moysés ST, Mota JC, Nicolau B, Ignacio S, Cubas MR, Tozetto Vettorazzi ML, Gonçalves Dos Santos ZFD, Werneck RI. Assessing oral health of crack users in Brazil: Perceptions and associated factors, findings from a mixed methods study. Glob Public Health. 2021;16(4):502-516. DOI: https://doi.org/10.1080/17441692.2020.1809693.\nKrawczyk N, da Mota JC, Coutinho C, Bertoni N, de Vasconcellos MTL, Silva PLN, De Boni RB, Cerdá M, Bastos FI. Polysubstance use in a Brazilian national sample: Correlates of co-use of alcohol and prescription drugs. Subst Abus. 2022;43(1):520-526. DOI: https://doi.org/10.1080/08897077.2021.1949666.\nMaschião LF, Bastos FI, Wilson E, McFarland W, Turner C, Pestana T, Veras MA. Nonprescribed Sex Hormone Use Among Trans Women: The Complex Interplay of Public Policies, Social Context, and Discrimination. Transgend Health. 2020;5(4):205-215. DOI: https://doi.org/10.1089/trgh.2020.0012.\nMota JC, Sperandei S, De Boni RB, Dourado I, Veras MASM, Bastos FI. Multiple substance use and associated factors in transgender women and travestis: findings from the TransOdara Study, Brazil. Rev Bras Epidemiol. 2024;27Suppl 1:e240011.supl.1. DOI: https://doi.org/10.1590/1980-549720230011.supl.1.\nMota JC, Cunha AP, Bastos FI. Armed violence and shootouts in Rio de Janeiro: relevance to impoverished communities and primary care health services. Cien Saude Colet. 2025;30(10):e12982025. DOI: https://doi.org/10.1590/1413-812320253010.12982025.\nNikobin R, Mella-Cobas J, Veras MA, Bastos FI, Barbarà JC, Ávila VS, da Silveira DX. Patterns of drug combinations used by men who have sex with men in Brazil. Braz J Psychiatry. 2025;47:e20243874. DOI: https://doi.org/10.47626/1516-4446-2024-3874.\nRakovski C, Cardoso TA, da Mota JC, Bastos FI, Kapczinski F, De Boni RB. Underage drinking in Brazil: findings from a community household survey. Braz J Psychiatry. 2022;44(3):257-263. DOI: https://doi.org/10.1590/1516-4446-2021-2103.\nSalles M, Bastos FI, Costa GLA, Mota JC, Boni RB. Alcohol use disorder in people with infectious and chronic diseases and mental disorders: Brazil, 2015. Cien Saude Colet. 2024;29(9):e01122023. DOI: https://doi.org/10.1590/1413-81232024299.01122023.\nSantos RRD, Hacker MAVB, Mota JCD, Bastos FI. Housing characteristics of crack cocaine users in Northeast Brazil, 2011-2013. Cien Saude Colet. 2022;27(6):2407-2416. DOI: https://doi.org/10.1590/1413-81232022276.16522021.\nValois-Santos NT, Niquini RP, Sperandei S, Bastos LS, Bertoni N, Brito AM, Bastos FI. Reassessing geographic bottlenecks in a respondent-driven sampling based multicity study in Brazil. Salud Colect. 2020;16:e2524. DOI: https://doi.org/10.18294/sc.2020.2524."
   },
   {
     "objectID": "equipe.html",
     "href": "equipe.html",
     "title": "Equipe",
     "section": "",
-    "text": "Graduação: 10\nMestrado acadêmico: 15\nDoutorado: 20"
+    "text": "A rede reúne pesquisadores, estudantes e colaboradores de instituições públicas e privadas, com coordenação sediada na Fiocruz e participação de grupos do INCA, UERJ, UFRJ, UFF, PUC-Rio e IDOR. Ao longo do projeto, a mobilização direta e indireta ultrapassou 300 pessoas, combinando financiamento da FAPERJ, CNPq, CAPES e das próprias instituições.\n\nFiocruz · INCA · UERJ · UFRJ · UFF · PUC-Rio · IDOR"
   },
   {
-    "objectID": "equipe.html#titulação-da-equipe",
-    "href": "equipe.html#titulação-da-equipe",
+    "objectID": "equipe.html#rede-institucional",
+    "href": "equipe.html#rede-institucional",
     "title": "Equipe",
     "section": "",
-    "text": "Graduação: 10\nMestrado acadêmico: 15\nDoutorado: 20"
+    "text": "A rede reúne pesquisadores, estudantes e colaboradores de instituições públicas e privadas, com coordenação sediada na Fiocruz e participação de grupos do INCA, UERJ, UFRJ, UFF, PUC-Rio e IDOR. Ao longo do projeto, a mobilização direta e indireta ultrapassou 300 pessoas, combinando financiamento da FAPERJ, CNPq, CAPES e das próprias instituições.\n\nFiocruz · INCA · UERJ · UFRJ · UFF · PUC-Rio · IDOR"
+  },
+  {
+    "objectID": "equipe.html#formação",
+    "href": "equipe.html#formação",
+    "title": "Equipe",
+    "section": "Formação",
+    "text": "Formação\n\n\n10\nestudantes de graduação.\n\n\n15\nestudantes de mestrado acadêmico.\n\n\n20\nestudantes de doutorado.\n\n\nA rede também inclui estágios de pós-doutorado, supervisões de iniciação científica, mestrados profissionais e teses vinculadas às linhas de epidemiologia, métodos quantitativos, clínica, ciência básica e química analítica."
+  },
+  {
+    "objectID": "equipe.html#colaborações-internacionais",
+    "href": "equipe.html#colaborações-internacionais",
+    "title": "Equipe",
+    "section": "Colaborações internacionais",
+    "text": "Colaborações internacionais\nAs colaborações internacionais incluem pesquisadores do Center for Opioid Epidemiology and Policy da New York University e uma rede latino-americana em novas substâncias psicoativas, com participação de colegas da Colômbia, Chile e México. Essas parcerias apoiam análises comparativas sobre opioides, novas substâncias psicoativas, políticas de drogas, monitoramento, tratamento, prevenção e redução de danos."
   },
   {
     "objectID": "equipe.html#integrantes",
@@ -54,12 +89,5 @@
     "title": "Equipe",
     "section": "Integrantes",
     "text": "Integrantes\n\nFrancisco Inacio Pinkusfeld Monteiro Bastos (Responsável)\nAdriana Cunha Faria-Melibeu\nAlex Christian Manhães\nAlexandra Almeida\nAline Araújo Brasil\nAmanda Kamil Abramov\nAna Carolina Dutra Tavares\nAna P. da Cunha\nAnderson Ribeiro-Carvalho\nAntonio JL da Cunha\nArnaldo Prata-Barbosa\nBeatriz Esteves\nBruna Teixeira Silva\nBruno Pantaleão\nCarmen Ildes R F Asmus\nCaroline Vieira Azevedo\nCGS Osorio-de-Castro\nClaudio Filgueiras\nEgberto Gaspar de Moura\nElize Massard da Fonseca\nGabriela Chagas Dornelles\nGeorgia Chalfun\nGustavo Rodrigues-Santos\nIgnacio Bórquez\nJaqueline Robaina\nJesus Landeira Fernandez\nJoffre Amim Júnior\nJoice Stipursky\nJuliana Ferreira Vasques\nJurema Mota\nLeo Travassos V Milone\nLiana Catarina Lima Portugal\nLivia Pinto Pinheiro\nMaria C Magalhaes-Barbosa\nMaria de Fátima Pina\nMariana Barros Genuino Olveira\nMJ Sobreira-da-Silva\nNaíde Teodósio Valois Santos\nNoa Krawczyk\nPamela M Moura Gonçalves\nPaula Silva L Almeida\nPaulo Victor B. E Santos\nPenélope Saldanha Marinho\nPriscila Olveira de Souza\nRafaela Zorzanelli\nRegina Kubrusly\nRodrigo Colaço das Neves\nRosana Camarini\nThomas Krahe\nYael Abreu-Villaça"
-  },
-  {
-    "objectID": "publicacoes.html",
-    "href": "publicacoes.html",
-    "title": "Publicações",
-    "section": "",
-    "text": "Em construção…"
   }
 ]

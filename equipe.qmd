@@ -2,11 +2,41 @@
 title: "Equipe"
 ---
 
-## Titulação da equipe
+## Rede institucional
 
-- Graduação: 10
-- Mestrado acadêmico: 15
-- Doutorado: 20
+A rede reúne pesquisadores, estudantes e colaboradores de instituições públicas e privadas, com coordenação sediada na Fiocruz e participação de grupos do INCA, UERJ, UFRJ, UFF, PUC-Rio e IDOR. Ao longo do projeto, a mobilização direta e indireta ultrapassou 300 pessoas, combinando financiamento da FAPERJ, CNPq, CAPES e das próprias instituições.
+
+::: {.partner-strip}
+Fiocruz · INCA · UERJ · UFRJ · UFF · PUC-Rio · IDOR
+:::
+
+## Formação
+
+::: {.metric-grid}
+::: {.metric}
+**10**
+
+estudantes de graduação.
+:::
+
+::: {.metric}
+**15**
+
+estudantes de mestrado acadêmico.
+:::
+
+::: {.metric}
+**20**
+
+estudantes de doutorado.
+:::
+:::
+
+A rede também inclui estágios de pós-doutorado, supervisões de iniciação científica, mestrados profissionais e teses vinculadas às linhas de epidemiologia, métodos quantitativos, clínica, ciência básica e química analítica.
+
+## Colaborações internacionais
+
+As colaborações internacionais incluem pesquisadores do Center for Opioid Epidemiology and Policy da New York University e uma rede latino-americana em novas substâncias psicoativas, com participação de colegas da Colômbia, Chile e México. Essas parcerias apoiam análises comparativas sobre opioides, novas substâncias psicoativas, políticas de drogas, monitoramento, tratamento, prevenção e redução de danos.
 
 ## Integrantes
 

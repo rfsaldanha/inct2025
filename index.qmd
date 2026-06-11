@@ -1,23 +1,100 @@
 ---
+title: "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade"
 toc: false
 ---
 
----
-title: "INCT Drogas de abuso: estudo translacional dos fatores determinantes de susceptibilidade"
----
+::::: hero
+::: hero-copy
+O INCT Drogas de abuso reúne uma rede translacional dedicada a compreender os fatores biológicos, sociais, clínicos e contextuais que modulam a susceptibilidade ao uso prejudicial de substâncias psicoativas.
+
+O projeto integra modelos experimentais, epidemiologia, clínica, química analítica, ciência de dados e cooperação interinstitucional para produzir evidências úteis à pesquisa, à formação e às políticas públicas.
+:::
+
+::: hero-facts
+**Responsável**\
+Francisco Inacio Pinkusfeld Monteiro Bastos\
+LIS/ICICT/Fiocruz
+
+**Situação**\
+Em andamento
+
+**Financiamento**\
+Conselho Nacional de Desenvolvimento Científico e Tecnológico --- CNPq
+:::
+:::::
 
 ## Descrição do projeto
 
-O Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que, no mundo, cerca de 35 milhões de pessoas sofrem de transtornos relacionados ao uso de substâncias, e deveriam ser tratadas. Estima-se que, em 2017, ~585.000 pessoas morreram em decorrência desse uso. Esse consumo afeta as pessoas que fazem uso de substâncias, como também familiares, amigos e a sociedade, visto que substâncias psicoativas estão associadas a agravos e danos diversos, como a violência, a disseminação do HIV e hepatites virais, e overdoses. O uso de drogas é um problema de extrema complexidade que deve ser abordado de forma multidimensional. Exatamente com este propósito, optamos por compor uma ampla rede, que abarca diferentes disciplinas e profissionais de reconhecida competência nas mais diferentes áreas do conhecimento, trabalhando de forma integrada, compartilhando ideias, equipamentos e insumos, enfim, maximizando as interações e minimizando custos Modelos experimentais têm sido fundamentais na elucidação dos mecanismos associados ao uso e abuso de substâncias psicoativas. No contexto desta proposta, esses modelos serão utilizados para a investigação dos mecanismos responsáveis pela susceptibilidade variável às substâncias nas diferentes fases do desenvolvimento ontogenético e entre os sexos. Quanto ao componente da proposta com abordagem mais epidemiológica, será feito o aporte de estatística e computação avançada à estudos classicamente analisados de forma simplificada, com a utilização de simulações in silico e estatística bayesiana. A presente proposta contempla um componente vigoroso em modelagem, nas suas variadas acepções, elaborando modelos realistas, verazes e tratáveis (qualitativa e/ou quantitativamente). As informações obtidas poderão se mostrar úteis para informar a sociedade sobre os riscos envolvidos e também para a orientar as políticas de saúde que serão direcionadas ao atendimento dos usuários de drogas psicoativas.
+O Relatório de 2019 do United Nations Office on Drugs and Crime (UNODC) estima que cerca de 35 milhões de pessoas no mundo sofrem de transtornos relacionados ao uso de substâncias e deveriam ser tratadas. Em 2017, aproximadamente 585 mil mortes foram associadas a esse uso. As consequências alcançam usuários, familiares, comunidades e serviços públicos, com efeitos sobre violência, HIV, hepatites virais, overdoses e outras formas de vulnerabilidade.
 
-## Reponsável pelo projeto
+O uso de drogas é um problema de alta complexidade e exige abordagem multidimensional. Por isso, o INCT articula pesquisadores, estudantes, laboratórios, bases de dados e serviços em uma rede que combina investigação experimental, análise populacional, modelagem estatística e produção de evidências para orientar ações em saúde pública.
 
-Francisco Inacio Pinkusfeld Monteiro Bastos (LIS/ICICT/Fiocruz)
+## Eixos de pesquisa
 
-## Situação
+::::::: feature-grid
+::: feature-card
+### Ciência básica
 
-Em andamento Natureza: Projetos de pesquisa
+Estudos em neurociências, fisiologia, farmacologia, toxicologia e modelos experimentais para investigar mecanismos de susceptibilidade às drogas de abuso ao longo do desenvolvimento e entre sexos.
+:::
 
-## Financiamento
+::: feature-card
+### Epidemiologia e métodos quantitativos
 
-Conselho Nacional de Desenvolvimento Científico e Tecnológico-CNPq
+Análise de grandes bases de dados, inquéritos, séries temporais, populações de difícil acesso, estatística avançada, simulações *in silico* e scripts abertos em R e Python.
+:::
+
+::: feature-card
+### Área clínica
+
+Avaliação de procedimentos, escalas, adesão, abandono e protocolos de tratamento para pessoas que fazem uso prejudicial ou dependente de álcool e outras drogas.
+:::
+
+::: feature-card
+### Química analítica e organoides
+
+Caracterização molecular de substâncias, novas substâncias psicoativas, toxicologia e estudos com organoides como ferramentas para perguntas de base translacional.
+:::
+:::::::
+
+## Inovação em dados, IA e saúde pública
+
+Um componente em desenvolvimento integra dados não tradicionais, inteligência artificial e participação cidadã para caracterizar cenas abertas de uso de drogas no Rio de Janeiro. A proposta usa imagens do Google Street View, técnicas de processamento de linguagem natural e análise computacional para atualizar tipologias, estimar ecométricas e produzir mapas e indicadores associados à sindemia crack/violência/HIV/HCV.
+
+O produto previsto é uma plataforma com mapas, gráficos e arquivos para download, apoiando gestores, profissionais de saúde, assistência social e pesquisadores na identificação de contextos onde intervenções do SUS e do SUAS podem melhorar acesso, referência e cuidado.
+
+## Rede e impacto
+
+::::::: metric-grid
+::: metric
+**300+**
+
+participantes mobilizados direta ou indiretamente pela rede.
+:::
+
+::: metric
+**100+**
+
+artigos, capítulos, teses e dissertações produzidos no conjunto das atividades.
+:::
+
+::: metric
+**4**
+
+frentes integradas de pesquisa translacional.
+:::
+
+::: metric
+**Fonte aberta**
+
+scripts e rotinas computacionais desenvolvidos para uso público e reprodutível.
+:::
+:::::::
+
+## Instituições e parcerias
+
+::: partner-strip
+Fiocruz · INCA · UERJ · UFRJ · UFF · PUC-Rio · IDOR · CNPq · FAPERJ
+:::
+
+O projeto articula instituições públicas e privadas, colaborações nacionais e parcerias internacionais, incluindo pesquisadores da América Latina e dos Estados Unidos em temas como epidemiologia de opioides, novas substâncias psicoativas, políticas de drogas e redução de danos.

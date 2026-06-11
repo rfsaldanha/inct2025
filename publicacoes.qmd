@@ -2,5 +2,72 @@
 title: "Publicações"
 ---
 
+Esta página reúne todas as referências listadas no relatório de epidemiologia e métodos quantitativos recebido como contexto para a atualização do site. A lista será revisada e ampliada conforme novas produções do INCT forem incorporadas.
 
-Em construção...
+## Artigos
+
+1. Almeida A, Kiene SM, Zúñiga ML, Werb D, Bórquez A, Bastos FI. Looking through the cracks: vulnerabilities and deprivation in the Brazilian open drug scenes. *Soc Sci Med*. 2026;402:119249. DOI: <https://doi.org/10.1016/j.socscimed.2026.119249>.
+
+2. Azevedo Cardoso T, Cerezer K, Martini T, Soriano de Sousa MU, Bastos FI, Balanzá-Martínez V, Kapczinski F, De Boni RB. Lifestyle changes during the COVID-19 pandemic in Brazil: results from three consecutive cross-sectional web surveys. *BMJ Open*. 2023;13(7):e070328. DOI: <https://doi.org/10.1136/bmjopen-2022-070328>.
+
+3. Bastos FI, Krawczyk N. Reports of rising use of fentanyl in contemporary Brazil is of concern, but a US-like crisis may still be averted. *Lancet Reg Health Am*. 2023;23:100507. DOI: <https://doi.org/10.1016/j.lana.2023.100507>.
+
+4. Bastos FI. (Re)criminalization of drug use: dynamics and perspectives. *Cad Saude Publica*. 2024;40(7):e00081624. DOI: <https://doi.org/10.1590/0102-311XEN081624>.
+
+5. Bastos FI. Adolescence in a fast-transitioning world: tentative policies as regards the harmful use of substances. *Saúde Debate*. 2026;50(N. Especial 1):e11336. DOI: <https://doi.org/10.1590/2358-28982026E111336I>.
+
+6. Bertoni N, Cavalcante TM, Souza MC, Szklo AS. Prevalence of electronic nicotine delivery systems and waterpipe use in Brazil: where are we going? *Rev Bras Epidemiol*. 2021;24(suppl 2):e210007. DOI: <https://doi.org/10.1590/1980-549720210007.supl.2>.
+
+7. Bertoni N, Szklo AS, Bastos FI. Implementation of Web-Based Respondent-Driven Sampling to Recruit Users of Electronic Nicotine Delivery Systems in Brazil: Cross-Sectional Survey. *JMIR Form Res*. 2026;10:e81573. DOI: <https://doi.org/10.2196/81573>.
+
+8. Bertoni N, Szklo AS, Coutinho T, Santos ATC, Lima FDT. Users' knowledge and perceptions concerning the Brazilian legislation on electronic nicotine delivery systems: a qualitative study. *Saúde Soc*. 2025;34(2):e240327en.
+
+9. Bertoni N, Szklo AS. Dispositivos eletrônicos para fumar nas capitais brasileiras: prevalência, perfil de uso e implicações para a Política Nacional de Controle do Tabaco. *Cad Saude Publica*. 2021;37(7):e00261920. DOI: <https://doi.org/10.1590/0102-311X00261920>.
+
+10. Bórquez I, Bailey K, Laynor G, Toledo L, Bastos FI, Santaella-Tenorio J, Castillo-Carniglia Á, Cerdá M, Krawczyk N. Harm reduction services and interventions for People Who Use Drugs (PWUD) in Latin America and the Caribbean (LAC) between 2013-2024: A scoping review protocol. *PLoS One*. 2025;20(11):e0334978. DOI: <https://doi.org/10.1371/journal.pone.0334978>.
+
+11. Bórquez I, Pantaleão B, Brogim G, Cunha AP, Krawczyk N, Bastos FI. Emergence of synthetic drugs in South America: insights from Brazil, Chile, and Colombia. *Harm Reduct J*. 2026;23(1):122. DOI: <https://doi.org/10.1186/s12954-026-01480-4>.
+
+12. Brogim G, Bastos FI. Sanctioning the supply chain: Analyzing US executive orders on tariffs as a tool against the fentanyl crisis. *Glob Public Health*. 2026;21(1):2653902. DOI: <https://doi.org/10.1080/17441692.2026.2653902>.
+
+13. Brogim G, Bruzzi P, Mota JC, Cunha AP, Bastos FI. Media (in)visibility of violence in Manguinhos, Rio de Janeiro, Brazil (2020-2024): a statistical modeling approach. *Front Commun*. 2026;11:1756667. DOI: <https://doi.org/10.3389/fcomm.2026.1756667>.
+
+14. Cabral VP, Moraes CL, Bastos FI, Abreu AMM, Domingues RMSM. Prevalence of alcohol use during pregnancy, Brazil, 2011-2012. *Cad Saude Publica*. 2023;39(8):e00232422. DOI: <https://doi.org/10.1590/0102-311XPT232422>.
+
+15. Carvalho AM, Bertoni N, Coutinho C, Bastos FI, Fonseca VM. Tobacco use by sexual and gender minorities: findings from a Brazilian national survey. *BMJ Open*. 2023;13(4):e065738. DOI: <https://doi.org/10.1136/bmjopen-2022-065738>.
+
+16. Carvalho RM, Bastos FI, Clara de Magalhães-Barbosa M, Bianchi LM, Robaina JR, Rodrigues-Santos G, Ledo Alves da Cunha AJ, Prata-Barbosa A. A time-series analysis of the use of opioid medications in a network of Brazilian hospitals, 2009-2020. *Lancet Reg Health Am*. 2025;48:101167. DOI: <https://doi.org/10.1016/j.lana.2025.101167>.
+
+17. Carvalho RM, de Magalhães-Barbosa MC, Bianchi LM, Rodrigues-Santos G, da Cunha AJLA, Bastos FI, Prata-Barbosa A. Shift in hospital opioid use during the COVID-19 pandemic in Brazil: a time-series analysis of one million prescriptions. *Sci Rep*. 2023;13(1):17197. DOI: <https://doi.org/10.1038/s41598-023-44533-5>.
+
+18. Castro-Alves J, Bastos FI, Cobo B, De Boni RB. Physical violence against women in Brazil: Findings from the 3rd Brazilian household survey on substance use. *Glob Public Health*. 2023;18(1):2244032. DOI: <https://doi.org/10.1080/17441692.2023.2244032>.
+
+19. Cunha AP, Mota JC, Bastos FI. A city under siege: Time-Series analysis of shootouts and the association with health and living conditions in Rio de Janeiro, Brazil, 2017 to 2022. *J Interpers Violence*. 2025 Jul 24:8862605251356234. DOI: <https://doi.org/10.1177/08862605251356234>.
+
+20. Cunha AP, Mota JC, Bastos FI. Perceived barriers to primary health care access in a violence-affected community in Rio de Janeiro, Brazil: Sociodemographic characteristics and self-reported health. *BMJ Pub Health*. 2026;4:e003655. DOI: <https://doi.org/10.1136/BMJPH2025-003655>.
+
+21. De Boni RB, de Vasconcellos MTL, Pedro Luis NS, Silva KMLE, Bertoni N, Coutinho CFS, Mota JC, Bastos FI. Substance use, self-rated health and HIV status in Brazil. *AIDS Care*. 2021;33(10):1358-1362. DOI: <https://doi.org/10.1080/09540121.2020.1799923>.
+
+22. De Boni RB, Mota JC, Coutinho C, Bastos FI. Would the Brazilian population support the alcohol policies recommended by the World Health Organization? *Rev Saude Publica*. 2022;56:66. DOI: <https://doi.org/10.11606/s1518-8787.2022056004093>.
+
+23. De Boni RB, Ribeiro-Alves M, Mota JC, Gomes M, Balanzá-Martínez V, Kapczinski F, Bastos FI. The cumulative effect of multiple dimensions of lifestyle on risky drinking during the Covid-19 pandemic. *Prev Med*. 2021;150:106718. DOI: <https://doi.org/10.1016/j.ypmed.2021.106718>.
+
+24. Gaio DC, Bastos FI, Moysés SJ, Moysés ST, Mota JC, Nicolau B, Ignacio S, Cubas MR, Tozetto Vettorazzi ML, Gonçalves Dos Santos ZFD, Werneck RI. Assessing oral health of crack users in Brazil: Perceptions and associated factors, findings from a mixed methods study. *Glob Public Health*. 2021;16(4):502-516. DOI: <https://doi.org/10.1080/17441692.2020.1809693>.
+
+25. Krawczyk N, da Mota JC, Coutinho C, Bertoni N, de Vasconcellos MTL, Silva PLN, De Boni RB, Cerdá M, Bastos FI. Polysubstance use in a Brazilian national sample: Correlates of co-use of alcohol and prescription drugs. *Subst Abus*. 2022;43(1):520-526. DOI: <https://doi.org/10.1080/08897077.2021.1949666>.
+
+26. Maschião LF, Bastos FI, Wilson E, McFarland W, Turner C, Pestana T, Veras MA. Nonprescribed Sex Hormone Use Among Trans Women: The Complex Interplay of Public Policies, Social Context, and Discrimination. *Transgend Health*. 2020;5(4):205-215. DOI: <https://doi.org/10.1089/trgh.2020.0012>.
+
+27. Mota JC, Sperandei S, De Boni RB, Dourado I, Veras MASM, Bastos FI. Multiple substance use and associated factors in transgender women and travestis: findings from the TransOdara Study, Brazil. *Rev Bras Epidemiol*. 2024;27Suppl 1:e240011.supl.1. DOI: <https://doi.org/10.1590/1980-549720230011.supl.1>.
+
+28. Mota JC, Cunha AP, Bastos FI. Armed violence and shootouts in Rio de Janeiro: relevance to impoverished communities and primary care health services. *Cien Saude Colet*. 2025;30(10):e12982025. DOI: <https://doi.org/10.1590/1413-812320253010.12982025>.
+
+29. Nikobin R, Mella-Cobas J, Veras MA, Bastos FI, Barbarà JC, Ávila VS, da Silveira DX. Patterns of drug combinations used by men who have sex with men in Brazil. *Braz J Psychiatry*. 2025;47:e20243874. DOI: <https://doi.org/10.47626/1516-4446-2024-3874>.
+
+30. Rakovski C, Cardoso TA, da Mota JC, Bastos FI, Kapczinski F, De Boni RB. Underage drinking in Brazil: findings from a community household survey. *Braz J Psychiatry*. 2022;44(3):257-263. DOI: <https://doi.org/10.1590/1516-4446-2021-2103>.
+
+31. Salles M, Bastos FI, Costa GLA, Mota JC, Boni RB. Alcohol use disorder in people with infectious and chronic diseases and mental disorders: Brazil, 2015. *Cien Saude Colet*. 2024;29(9):e01122023. DOI: <https://doi.org/10.1590/1413-81232024299.01122023>.
+
+32. Santos RRD, Hacker MAVB, Mota JCD, Bastos FI. Housing characteristics of crack cocaine users in Northeast Brazil, 2011-2013. *Cien Saude Colet*. 2022;27(6):2407-2416. DOI: <https://doi.org/10.1590/1413-81232022276.16522021>.
+
+33. Valois-Santos NT, Niquini RP, Sperandei S, Bastos LS, Bertoni N, Brito AM, Bastos FI. Reassessing geographic bottlenecks in a respondent-driven sampling based multicity study in Brazil. *Salud Colect*. 2020;16:e2524. DOI: <https://doi.org/10.18294/sc.2020.2524>.
